@@ -1,5 +1,7 @@
 # CSE462 Game Project
 
+![transistor](https://github.com/user-attachments/assets/730d4b02-7b25-4152-8dac-953cdf30d05a)
+
 This repository contains a C++ project developed for the CSE462 course. The program implements a board game with an AI opponent and a simple user interface built on **SFML 2.6.1-1**. It is structured to separate interface, game logic, and AI components with a Makefile to streamline builds.
 
 ## 📁 Project Structure
